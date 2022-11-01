@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "canvacord": "^5.4.1",
+    "canvas": "^2.9.3",
+    "cpu-stat": "^2.0.1",
+    "discord-blackjack-vietnam": "^4.0.0",
+    "discord-economy-super": "^1.5.2",
+    "discord.js": "^13.8.1",
+    "discord.js-games": "^1.1.8",
+    "enmap": "^5.9.0",
+    "i": "^0.3.7",
+    "moment": "^2.29.4",
+    "npm": "^8.14.0",
+    "os": "^0.1.2",
+    "pretty-ms": "^8.0.0",
+    "quick.db": "^9.0.5",
+    "random-gen": "^0.1.0"
+  }
+}
